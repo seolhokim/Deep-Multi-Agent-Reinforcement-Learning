@@ -1,8 +1,10 @@
----
-description: Written by Jakob N. Foerster. Translated by Seolho Kim
----
-
 # Deep Multi-Agent Reinforcement Learning
+
+Written by Jakob N. Foerster
+
+Translated by Seolho Kim
+
+
 
 이 gitbook은 완전한 번역을 위해 만들어진 게 아니라, 강화학습 중급자에게 도움이 될 수 있는 자료를 만들고자 합니다. 주 내용은 
 
