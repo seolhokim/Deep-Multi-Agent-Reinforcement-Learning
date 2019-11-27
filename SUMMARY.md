@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [delete](README.md)
+* [Deep Multi-Agent Reinforcement Learning](deep-multi-agent-reinforcement-learning.md)
 
