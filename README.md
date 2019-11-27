@@ -1,5 +1,9 @@
 # Deep Multi-Agent Reinforcement Learning
 
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://kilmya1.gitbook.io/deep-multi-agent-reinforcement-learning/)
+
 Written by Jakob N. Foerster
 
 Translated by Seolho Kim
