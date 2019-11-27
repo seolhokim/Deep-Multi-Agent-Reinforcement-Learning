@@ -1,25 +1,14 @@
-# delete
+---
+description: Written by Jakob N. Foerster. Translated by Seolho Kim
+---
 
-## Getting Super Powers
+# Deep Multi-Agent Reinforcement Learning
 
-Becoming a super hero is a fairly straight forward process:
+이 gitbook은 완전한 번역을 위해 만들어진 게 아니라, 강화학습 중급자에게 도움이 될 수 있는 자료를 만들고자 합니다. 주 내용은 
 
-```
-$ give me super-powers
-```
+> ### [https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+에서 얻었으며, permission을 얻었습니다. 누구나 이 gitbook에 commit 할 수 있으며, 다양한 의견을 환영합니다.
 
 
 
