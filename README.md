@@ -16,5 +16,7 @@ Translated by Seolho Kim
 
 에서 얻었으며, permission을 얻었습니다. 누구나 이 gitbook에 commit 할 수 있으며, 다양한 의견을 환영합니다.
 
+내용을 빠르게 정리할 예정이기 때문에, 영어와 혼합해 적은 뒤 읽기 쉽게 정리할 예정입니다.
+
 
 
