@@ -9,8 +9,7 @@
 
 ## 1. Introduction
 
-* [1.1 The Industrial Revolution, Cognition, and Computers](1.-introduction/1.1-the-industrial-revolution-cognition-and-computers/README.md)
-  * [Untitled](1.-introduction/1.1-the-industrial-revolution-cognition-and-computers/untitled.md)
+* [1.1 The Industrial Revolution, Cognition, and Computers](1.-introduction/1.1-the-industrial-revolution-cognition-and-computers.md)
 * [1.2 Deep Multi-Agent Reinforcement-Learning](1.-introduction/1.2-deep-multi-agent-reinforcement-learning.md)
 * [1.3  Overall Structure](1.-introduction/1.3-overall-structure.md)
 
