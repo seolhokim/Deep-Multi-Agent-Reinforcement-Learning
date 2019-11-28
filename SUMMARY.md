@@ -5,7 +5,6 @@
 ## Abstract & Contents
 
 * [Abstract](abstract-and-contents/deep-multi-agent-reinforcement-learning.md)
-* [Contents](abstract-and-contents/untitled.md)
 
 ## 1. Introduction
 
