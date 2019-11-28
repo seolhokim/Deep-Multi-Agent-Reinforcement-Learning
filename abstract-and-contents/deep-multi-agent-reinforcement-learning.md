@@ -12,7 +12,11 @@
 
 지금까지, agent들이 모두 서로 소통이 없이 decentralised 되어서 action을 취하는 상황에 대해 가정했는데, 두번째 파트에서는 agent가  communication protocol을 배울 수 있는 세가지 다른 방법을 제시한다.
 
-첫번째 방법으로는 Differentiabla Inter-Agent Learning\(DIAL\)이다. 
+첫번째 방법으로는 Differentiable Inter-Agent Learning\(DIAL\)이다. 여기서는 discrete한 communication channel들 중에 주어진 문제를 잘 풀어낼 수 있는 알맞는 communication protocol을 찾아 구별된 방법\(differentiation\)을 사용한다.
+
+둘째로는 Reinforced Inter-Agent Learning\(RIAL\)가 있는데, RIAL는 RL을 단순히 protocol을 배우는 수단으로 사용하는 것이다. 이 방법들은 agent의 직접적인 이유가 되지 못한다. 이 것은 사람은 다른사람의 action을 봤을 때, 즉각적으로 왜 그런 행동이 실행되고, 그것이 state에 대해 무엇을 의미하는가들에 대해 세우는 것과 다르다.
+
+
 
 
 
