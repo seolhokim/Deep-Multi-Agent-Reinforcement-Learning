@@ -16,6 +16,8 @@
 
 둘째로는 Reinforced Inter-Agent Learning\(RIAL\)가 있는데, RIAL는 RL을 단순히 protocol을 배우는 수단으로 사용하는 것이다. 이 방법들은 agent의 직접적인 이유가 되지 못한다. 이 것은 사람은 다른사람의 action을 봤을 때, 즉각적으로 왜 그런 행동이 실행되고, 그것이 state에 대해 무엇을 의미하는가들에 대해 세우는 것과 다르다.
 
+셋째로는 Baysian Action Decoder\(BAD\)
+
 
 
 
