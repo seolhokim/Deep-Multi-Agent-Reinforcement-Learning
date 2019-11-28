@@ -16,7 +16,13 @@
 
 둘째로는 Reinforced Inter-Agent Learning\(RIAL\)가 있는데, RIAL는 RL을 단순히 protocol을 배우는 수단으로 사용하는 것이다. 이 방법들은 agent의 직접적인 이유가 되지 못한다. 이 것은 사람은 다른사람의 action을 봤을 때, 즉각적으로 왜 그런 행동이 실행되고, 그것이 state에 대해 무엇을 의미하는가들에 대해 세우는 것과 다르다.
 
-셋째로는 Baysian Action Decoder\(BAD\)
+이러한 인사이트에 영감을 받아, 셋째로는 Baysian Action Decoder\(BAD\)가 있다. 이는 agents가 직접적으로 Baysian update 근사와 관찰된 action과 communication actions을 통해 communication 방법을 배우면서 다른 agents의 정책을 고려한다.
+
+위의 두 이론은 모든 agents가 team reward를 최적화하지만 실제로는 다른 agent 끼리 경쟁하는 경우가 있다. 이 경우에는 위의 알고리즘들이 안좋은 성능을 보였기 때문에 또다른 알고리즘을 통해 해결하는데 이것을 Learning with Opponents-Learning Awareness\(LOLA\)라고 부른다. LOLA에서 agent들은 다른 agent들의 행동을 고려하는데 초점을 맞추고, 그들의 상대편의 정책을 찾는것에\(상대편의 학습을 자신에게 유리에게 학습시키는\) 목적을 둔다.
+
+defact-defact 균형을 이루는 죄수의 딜레마보다, LOLA는 tit-for-tat의 전략을 형성한다. LOLA는 효과적으로 상호작용을 하면서, 전체적으로 높은 reward를 받는데 집중한다.
+
+또 Infinitely Differentiable Monte-Carlo estimator\(Dice\)를 소개하는데, 계산적인 방법인데, 
 
 
 
