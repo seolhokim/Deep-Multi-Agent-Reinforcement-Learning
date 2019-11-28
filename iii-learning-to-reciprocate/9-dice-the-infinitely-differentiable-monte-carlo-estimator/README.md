@@ -1,2 +1,2 @@
-# 9 DiCE: The Infinitely Differentiable Monte Carlo Estimator
+# 9. DiCE: The Infinitely Differentiable Monte Carlo Estimator
 

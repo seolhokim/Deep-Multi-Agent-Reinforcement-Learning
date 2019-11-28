@@ -8,9 +8,10 @@
 
 ## 1. Introduction
 
-* [1.1 The Industrial Revolution, Cognition, and Computers](1.-introduction/1.1-the-industrial-revolution-cognition-and-computers.md)
-* [1.2 Deep Multi-Agent Reinforcement-Learning](1.-introduction/1.2-deep-multi-agent-reinforcement-learning.md)
-* [1.3  Overall Structure](1.-introduction/1.3-overall-structure.md)
+* [1. INTRODUCTION](1.-introduction/1.-introduction/README.md)
+  * [1.1 The Industrial Revolution, Cognition, and Computers](1.-introduction/1.-introduction/1.1-the-industrial-revolution-cognition-and-computers.md)
+  * [1.2 Deep Multi-Agent Reinforcement-Learning](1.-introduction/1.-introduction/1.2-deep-multi-agent-reinforcement-learning.md)
+  * [1.3  Overall Structure](1.-introduction/1.-introduction/1.3-overall-structure.md)
 
 ## 2. Background
 
@@ -63,7 +64,7 @@
 
 ## II Learning to Communicate
 
-* [6 Learning to Communicate with Deep Multi-Agent ReinforcementLearning](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/README.md)
+* [6. Learning to Communicate with Deep Multi-Agent ReinforcementLearning](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/README.md)
   * [6.1 Introduction](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.1-introduction.md)
   * [6.2 Related Work](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.2-related-work.md)
   * [6.3 Setting](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.3-setting.md)
@@ -77,7 +78,7 @@
     * [6.6.3 MNIST Games](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.6-experiments/6.6.3-mnist-games.md)
     * [6.6.4 Effect of Channel Noise](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.6-experiments/6.6.4-effect-of-channel-noise.md)
   * [6.7 Conclusion & Future Work](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.7-conclusion-and-future-work.md)
-* [7 Bayesian Action Decoder](ii-learning-to-communicate/7-bayesian-action-decoder/README.md)
+* [7. Bayesian Action Decoder](ii-learning-to-communicate/7-bayesian-action-decoder/README.md)
   * [7.1 Introduction](ii-learning-to-communicate/7-bayesian-action-decoder/7.1-introduction.md)
   * [7.2 Setting](ii-learning-to-communicate/7-bayesian-action-decoder/7.2-setting.md)
   * [7.3 Method](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/README.md)
@@ -102,14 +103,14 @@
 
 ## III Learning to Reciprocate
 
-* [8 Learning with Opponent-Learning Awareness](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/README.md)
+* [8. Learning with Opponent-Learning Awareness](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/README.md)
   * [8.1 Introduction](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/8.1-introduction.md)
   * [8.2 Related Work](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/8.2-related-work.md)
   * [8.3 Methods](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/8.3-methods.md)
   * [8.4 Experimental Setup](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/8.4-experimental-setup.md)
   * [8.5 Results](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/8.5-results.md)
   * [8.6 Conclusion & Future Work](iii-learning-to-reciprocate/8-learning-with-opponent-learning-awareness/8.6-conclusion-and-future-work.md)
-* [9 DiCE: The Infinitely Differentiable Monte Carlo Estimator](iii-learning-to-reciprocate/9-dice-the-infinitely-differentiable-monte-carlo-estimator/README.md)
+* [9. DiCE: The Infinitely Differentiable Monte Carlo Estimator](iii-learning-to-reciprocate/9-dice-the-infinitely-differentiable-monte-carlo-estimator/README.md)
   * [9.1 Introduction](iii-learning-to-reciprocate/9-dice-the-infinitely-differentiable-monte-carlo-estimator/9.1-introduction.md)
   * [9.2 Background](iii-learning-to-reciprocate/9-dice-the-infinitely-differentiable-monte-carlo-estimator/9.2-background.md)
   * [9.3 Higher Order Gradients](iii-learning-to-reciprocate/9-dice-the-infinitely-differentiable-monte-carlo-estimator/9.3-higher-order-gradients.md)

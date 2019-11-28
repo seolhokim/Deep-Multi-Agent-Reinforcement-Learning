@@ -1,2 +1,2 @@
-# 8 Learning with Opponent-Learning Awareness
+# 8. Learning with Opponent-Learning Awareness
 
