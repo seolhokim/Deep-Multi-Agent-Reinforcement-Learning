@@ -42,8 +42,10 @@ LOLA와 DiCE는 모두 광범위한 목적의 목적식을 갖는데, stochastic
 
 * **Centralised execution**
   * 한 controller가 다른 요소를 모두 제어할 수 있게 되어있음
+  * DMARL에서는 agent가 모든 정보를 알고 제어할 수있음을 나타냅니다.
 * **Decentralised execution**
-  * 낮은 단계의 controller에게 명령권을 주는 
+  * 낮은 단계의 controller에게 명령권을 줍니다.  
+  * DMARL에서는 agent가 자신의 부분적인 정보만을 이용하여 제어함을 말합니다. 
 
 #### 
 
