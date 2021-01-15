@@ -8,13 +8,13 @@
 
  또한, 조정된 action의 common knowledge에 대한 중요도에 대해서 다음과 같은 이론으로 정리하여 제시합니다. Multi-Agent Common Knowledge Reinforcement Learning\(MACKRL\)는 agent들의 subgroup들이 서로 같은 common knowledge를 공유하는 계층적인 controllers를 사용합니다. 이렇게 하는 이유는 그룹의 action이 joint된 space를 가지거나 많은 common knowledge를 가진 subgroup에게  기능을 위임하기 위해서입니다.
 
- 문제를 푸는 핵심의 인사이트는 모든 정책은 여전히 decentralized되어 처리될 수 있다는 점입니다. 모든 agent는 독립적으로 그룹의 common knowledge를 추론할 수 있기 때문입니. MARL에서는 모든 agent가 동시에 environment의 non-stationary에 대해 배웁니다. 이것이 MARL에서의 replay buffer를 사용하는데 어려움을 겪게 만드는데, 이런 문제를 과적으로 해소하기 위한 \(수집된 시간과 그 당시에 대한 정책의 랜덤성을 고려해서\)replay buffer에서 사용할 수 있는 metadata fingerprint를 제시하고 평가합니다.
+ 문제를 푸는 핵심의 인사이트는 모든 정책은 여전히 decentralized되어 처리될 수 있다는 점입니다. 모든 agent는 독립적으로 그룹의 common knowledge를 추론할 수 있기 때문입니다. MARL에서는 모든 agent가 동시에 environment에 대해 배우고 이것은 다른 agent들에 대한 간섭에 의해 non-stationary합니다. 이것이 MARL에서의 replay buffer를 사용하는데 어려움을 겪게 만드는데, 이런 문제를 결과적으로 해소하기 위한 \(수집된 시간과 그 당시에 대한 정책의 랜덤성을 고려해서\)replay buffer에서 사용할 수 있는 metadata fingerprint를 제시하고 평가합니다.
 
 지금까지, agent들이 모두 서로 소통이 없이 decentralised 되어서 action을 취하는 상황에 대해 가정했는데, 두번째 파트에서는 agent가  communication protocol을 배울 수 있는 세가지 다른 방법을 제시합다.
 
-첫번째 방법으로는 Differentiable Inter-Agent Learning\(DIAL\)입다. 여기서는 discrete한 communication channel들 중에 주어진 문제를 잘 풀어낼 수 있는 알맞는 communication protocol을 찾아 구별된 방법\(differentiation\)을 사용합다.
+첫번째 방법으로는 Differentiable Inter-Agent Learning\(DIAL\)입니다. 여기서는 centralized training을 통해 discrete한 communication channel들 중에 주어진 문제를 잘 풀어낼 수 있는 알맞는 communication protocol을 찾아 구별된 방법\(differentiation\)을 사용합니다.
 
-둘째로는 Reinforced Inter-Agent Learning\(RIAL\)가 있는데, RIAL는 RL을 단순히 protocol을 배우는 수단으로 사용하는 것입니다. 이 방법들은 agent의 직접적인 이유가 되지 못합니다. 이 것은 사람은 다른사람의 action을 봤을 때, 즉각적으로 왜 그런 행동이 실행되고, 그것이 state에 대해 무엇을 의미하는가들에 대해 세우는 것과 다릅니다.
+둘째로는 Reinforced Inter-Agent Learning\(RIAL\)가 있는데, RIAL는 RL을 단순히 protocol을 배우는 수단으로 사용하는 것입니다. 이 방법들은 관찰한 agent들의 행동에 대해 직접적인 이유를 알진 못합니다. 하지만다른 agent의 action을 봤을 때, 즉각적으로 왜 그런 행동이 실행되고, 그것이 state에 대해 무엇을 의미하는가들에 대해 가설을 세울 수 있게 됩니다.
 
  셋째로는 이러한 인사이트에 영감을 받아 만든, Baysian Action Decoder\(BAD\)가 있습니다. 이는 agents가 직접적으로 Baysian update 근사와 관찰된 action과 communication actions을 통해 communication 방법을 배우면서 다른 agents의 정책을 고려합니다.
 
