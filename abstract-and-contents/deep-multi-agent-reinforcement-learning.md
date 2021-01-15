@@ -22,9 +22,9 @@
 
 defact-defact 균형을 이루는 죄수의 딜레마보다, LOLA는 tit-for-tat의 전략을 형성합니다. LOLA는 효과적으로 상호작용을 하면서, 전체적으로 높은 reward를 받는데 집중합니다.
 
-또 Infinitely Differentiable Monte-Carlo estimator\(DiCE\)를 소개하는데, 계산적인 방법인데, 한 agent가 다른 agent의 학습되는 행동을 설명할 때의 gradients를 발생시키는 방법입니다.
+또 Infinitely Differentiable Monte-Carlo estimator\(DiCE\)를 소개하는데, 한 agent가 같은 환경내의 다른 agent의 행동을 설명할 때 higher order gradients를 추정하는 방법입니다.
 
-LOLA와 DiCE는 모두 광범위한 목적의 목적식을 갖는데, stochastic computation graphs를 추정함으로써, gradient를 발생시키는 역할을 합다.
+LOLA와 DiCE는 둘다 stochastic computation graphs를 위해 higher order gradients를 발생시키는 광범위한 목적의 목적식을 갖습니다.
 
 
 
