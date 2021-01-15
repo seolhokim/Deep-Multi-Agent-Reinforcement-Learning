@@ -4,7 +4,7 @@
 
  이러한 문제에는 협력하는\(Collaborate\) 문제 , 소통하는\(Commuicate\) 문제, 상호간의 문제\(Reciprocate\)가 있습니다. 대부분의 실제 상황에서는 결과적으로 나오는 정책\(policy\)은 agent 개별의 행동과 지역적인 관찰에 의존합니다. 그러나 많은 케이스에서 이런 지역적인 관찰을 중앙에서 통제하는 training을 진행할 수 있습니다. 예를들면, 정책을 학습시키면서 시뮬레이터내에서 추가적인 state 정보를 주거나, agent간의 communication을 하도록 하는 것 입니다.
 
- 첫 장은 collaborate 상황에서의 common objective를 달성하기 위한 challenge 들에 대해 기술합다. 여기서의 어려움 중 하나는 multi-agent 상황에서 어떤 agent의 행동이 reward에 직접 영향을 미쳤는지 입니\(multi-agent credit assignment\). 모든 agent들의 action은 episode내에서 reward에 영향을 미치기 때문에, 한 agent의 행동에 대한 평가를 분리해서 해내기가 어려움이 있습니다. 여기서는 이런 문제를 풀기 위해Counterfactual Multi-Agent Policy Gradients\(COMA\) 를 제시합다. COMA에서는 Counterfactual baseline 을 통해 각자의 agent가 그들의 action이 팀내에서 미치는 영향에 대해 평가합니. 
+ 첫 장은 collaborate 상황에서의 common objective를 달성하기 위한 challenge 들에 대해 기술합니다. 여기서의 어려움 중 하나는 multi-agent 상황에서 어떤 agent의 행동이 reward에 직접 영향을 미쳤는지 입니다\(multi-agent credit assignment\). 모든 agent들의 action은 episode내에서 reward에 영향을 미치기 때문에, 한 agent의 행동에 대한 평가를 분리해서 해내기가 어려움이 있습니다. 여기서는 이런 문제를 풀기 위해Counterfactual Multi-Agent Policy Gradients\(COMA\) 를 제시합니다. COMA에서는 Counterfactual baseline 을 통해 각자의 agent가 그들의 action이 팀내에서 미치는 영향에 대해 평가합니다. 
 
  또한, 조정된 action의 common knowledge에 대한 중요도에 대해서 다음과 같은 이론으로 정리하여 제시합니다. Multi-Agent Common Knowledge Reinforcement Learning\(MACKRL\)는 agent들의 subgroup들이 서로 같은 common knowledge를 공유하는 계층적인 controllers를 사용합니다. 이렇게 하는 이유는 그룹의 action이 joint된 space를 가지거나 많은 common knowledge를 가진 subgroup에게  기능을 위임하기 위해서입니다.
 
