@@ -6,9 +6,9 @@
 
  첫 장은 collaborate 상황에서의 common objective를 달성하기 위한 challenge 들에 대해 기술합다. 여기서의 어려움 중 하나는 multi-agent 상황에서 어떤 agent의 행동이 reward에 직접 영향을 미쳤는지 입니\(multi-agent credit assignment\). 모든 agent들의 action은 episode내에서 reward에 영향을 미치기 때문에, 한 agent의 행동에 대한 평가를 분리해서 해내기가 어려움이 있습니다. 여기서는 이런 문제를 풀기 위해Counterfactual Multi-Agent Policy Gradients\(COMA\) 를 제시합다. COMA에서는 Counterfactual baseline 을 통해 각자의 agent가 그들의 action이 팀내에서 미치는 영향에 대해 평가합니. 
 
- 또한, 조정된 action의 common knowledge에 대한 중요도에 대해서 다음과 같은 이론으로 정리하여 제시합니다. Multi-Agent Common Knowledge Reinforcement Learning\(MACKRL\)는 agent들의 subgroup들이 서로 같은 common knowledge를 공유하는 계층적인 controllers를 사용합다. 이렇게 하는 이유는 그룹이 비슷한 action space를 가지거나 더 작지만 많은 common knowledge를 가진 subgroup에게  기능을 위임하기 위해서입니.
+ 또한, 조정된 action의 common knowledge에 대한 중요도에 대해서 다음과 같은 이론으로 정리하여 제시합니다. Multi-Agent Common Knowledge Reinforcement Learning\(MACKRL\)는 agent들의 subgroup들이 서로 같은 common knowledge를 공유하는 계층적인 controllers를 사용합다. 이렇게 하는 이유는 그룹이 비슷한 action space를 가지거나 더 작지만 많은 common knowledge를 가진 subgroup에게  기능을 위임하기 위해서입니다.
 
- 문제를 푸는 핵심의 인사이트는 모든 정책은 여전히 분산되어 처리될 수 있다는 점입니다. 모든 agent는 독립적으로 그룹의 common knowledge를 추론할 수 있기 때문입다. MARL에서는 모든 agent가 동시에 environment의 non-stationary에 대해 배웁니. 이것이 MARL에서의 replay buffer를 사용하는데 어려움을 겪게 만드는데, 이런 문제를 과적으로 해소하기 위한 \(수집된 시간과 그 당시에 대한 정책의 랜덤성을 고려해서\)replay buffer에서 사용할 수 있는 metadata fingerprint를 제시하고 평가합니.
+ 문제를 푸는 핵심의 인사이트는 모든 정책은 여전히 분산되어 처리될 수 있다는 점입니다. 모든 agent는 독립적으로 그룹의 common knowledge를 추론할 수 있기 때문입다. MARL에서는 모든 agent가 동시에 environment의 non-stationary에 대해 배웁니다. 이것이 MARL에서의 replay buffer를 사용하는데 어려움을 겪게 만드는데, 이런 문제를 과적으로 해소하기 위한 \(수집된 시간과 그 당시에 대한 정책의 랜덤성을 고려해서\)replay buffer에서 사용할 수 있는 metadata fingerprint를 제시하고 평가합니.
 
 지금까지, agent들이 모두 서로 소통이 없이 decentralised 되어서 action을 취하는 상황에 대해 가정했는데, 두번째 파트에서는 agent가  communication protocol을 배울 수 있는 세가지 다른 방법을 제시합다.
 
