@@ -26,18 +26,6 @@ defact-defact 균형을 이루는 죄수의 딜레마보다, LOLA는 tit-for-tat
 
 LOLA와 DiCE는 둘다 stochastic computation graphs를 위해 higher order gradients를 발생시키는 광범위한 목적의 목적식을 갖습니다.
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### Centralised execution vs Decentralised execution
 
 * **Centralised execution**
