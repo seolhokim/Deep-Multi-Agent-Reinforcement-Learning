@@ -14,13 +14,9 @@ Translated by Seolho Kim
 
 
 
-이 gitbook은 완전한 번역을 위해 만들어진 게 아니라, 강화학습 중급자에게 도움이 될 수 있는 자료를 만들고자 합니다. 주 내용은 
+이 gitbook은 완전한 번역을 위해 만들어진 게 아니라, 강화학습 중급자에게 도움이 될 수 있는 자료를 만들고자 합니다. 주 내용은 [이곳](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)에서 확인 가능합니다. permission을 얻은상태이고, 단기간에 빠르게 완성하기 위해 많은 부족한 부분이 존재하는데 다양한 의견을 환영합니다.
 
-> ### [https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)
 
-에서 얻었으며, permission을 얻었습니다. 누구나 이 gitbook에 commit 할 수 있으며, 다양한 의견을 환영합니다.
-
-내용을 빠르게 정리할 예정이기 때문에, 영어와 혼합해 적은 뒤 읽기 쉽게 정리할 예정입니다.
 
 
 
