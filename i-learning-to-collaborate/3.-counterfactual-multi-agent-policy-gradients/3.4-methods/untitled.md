@@ -1,6 +1,6 @@
-# 3.4.2.1 COMA Algorithm and baseline lemma
+# 3.4.2.1 baseline lemma
 
-이번 chapter에서는 $$ \lim_{k\rightarrow\infty} g_k = \mathbb{E}_\pi[\sum_a{\nabla_{\theta_k}\log{\pi^a(u^a|\tau^a)A^a(s,\bold{u})}}] = 0$$임을 증명하고, COMA 알고리즘에 대한 이해를 해볼 예정입니다. 해보려는 증명은 baseline으로 사용하기 위해서 unbiased함을 보여야하므로 꼭 짚고넘어가는 것이 좋습니다. 
+이번 chapter에서는 $$g = \mathbb{E}_\pi[\sum_a{\nabla_{\theta}\log{\pi^a(u^a|\tau^a)A^a(s,\bold{u})}}] = 0$$임을 증명해볼 예정입니다. $$ b$$baseline으로 사용하기 위해서 unbiased함을 보여야하므로 꼭 짚고넘어가는 것이 좋습니다. 
 
 이 $$g$$는 다음과 같이 정의 가능합니다.
 
@@ -22,9 +22,9 @@
 
               $$= 0$$
 
-d
 
-d
+
+
 
  
 
