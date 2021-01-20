@@ -10,9 +10,13 @@
 
 그렇다면, baseline $$b$$에 대한 $$g$$는 $$ g_b = -\mathbb{E}_\bm{\pi}[\sum _a{\nabla{\theta}\log{\pi^a(u^a|\tau^a)b^a(s,\bold{u^{-a}})}}]$$로 나타낼 수 있습니다. 이는 state distribution이 ergodic하다면, stationary distribution $$d$$를 사용해 summation form으로 다음과 같이 나타낼 수 있습니다.
 
-               $$ g_b  = -\sum_s{d^\pi(s)}\sum _a\sum_{\bold{u}}{\bm{\pi}(\bold{u}|\bm{\tau})}{\nabla{\theta}\log{\pi^a(u^a|\tau^a)b^a(s,\bold{u}^{-a})}}$$ 
+              $$ g_b = -\mathbb{E}_\bm{\pi}[\sum _a{\nabla{\theta}\log{\pi^a(u^a|\tau^a)b^a(s,\bold{u^{-a}})}}]$$ 
+
+                    $$= -\sum_s{d^\pi(s)}\sum _a\sum_{\bold{u}}{\bm{\pi}(\bold{u}|\bm{\tau})}{\nabla{\theta}\log{\pi^a(u^a|\tau^a)b^a(s,\bold{u}^{-a})}}$$ 
 
                     $$  = -\sum_s{d^\pi(s)}\sum _a\sum_{\bold{u}^{-a}}{\bm{\pi}(\bold{u}^{-a}|\bm{\tau}-a)}\sum_{u^a}{\pi^a(u^a|\tau^a)}{\nabla{\theta}\log{\pi^a(u^a|\tau^a)b^a(s,\bold{u}^{-a})}}$$
+
+                    $$ (\because \bm{\pi}(\bm{u}|\bm{\tau})  = \prod_{a' \in a}{\pi^{a'}(u^{a'}|\tau^{a'}))}$$
 
                     $$  = -\sum_s{d^\pi(s)}\sum _a\sum_{\bold{u}^{-a}}{\bm{\pi}(\bold{u}^{-a}|\bm{\tau}-a)}\sum_{u^a}{\nabla\pi^a(u^a|\tau^a)}{b^a(s,\bold{u}^{-a}})$$
 
