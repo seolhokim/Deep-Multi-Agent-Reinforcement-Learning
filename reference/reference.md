@@ -14,7 +14,7 @@
 
 \[7\] Yann LeCun et al. “Gradient-based learning applied to document recognition”. In: Proceedings of the IEEE 86.11 \(1998\), pp. 2278–2324.
 
- \[8\] Geoffrey Hinton et al. “Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups”. In: IEEE Signal processing magazine 29.6 \(2012\), pp. 82–97. 
+\[8\] Geoffrey Hinton et al. “Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups”. In: IEEE Signal processing magazine 29.6 \(2012\), pp. 82–97. 
 
 \[9\] Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. “Imagenet classification with deep convolutional neural networks”. In: Advances in neural information processing systems. 2012, pp. 1097–1105. 
 
@@ -322,7 +322,7 @@
 
 \[161\] Zhenguo Li et al. “Meta-SGD: Learning to Learn Quickly for Few Shot Learning”. In: CoRR abs/1707.09835 \(2017\). arXiv: 1707.09835.
 
- \[162\] Martin Abadi et al. “TensorFlow: A System for Large-Scale Machine Learning”. In: 12th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2016, Savannah, GA, USA, November 2-4, 2016. 2016, pp. 265–283. 
+\[162\] Martin Abadi et al. “TensorFlow: A System for Large-Scale Machine Learning”. In: 12th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2016, Savannah, GA, USA, November 2-4, 2016. 2016, pp. 265–283. 
 
 \[163\] Adam Paszke et al. “Automatic differentiation in PyTorch”. In: \(2017\)
 
