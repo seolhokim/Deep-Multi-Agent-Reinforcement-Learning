@@ -21,7 +21,7 @@
   * [2.3 Centralized vs Decentralized Control](2.-background/2.-background/2.3-centralised-vs-decentralised-control.md)
   * [2.4  Cooperative, Zero-sum, and General-Sum](2.-background/2.-background/2.4-cooperative-zero-sum-and-general-sum.md)
   * [2.5 Partial Observability](2.-background/2.-background/2.5-partial-observability.md)
-  * [2.6 Centralised Training, Decentralised Execution](2.-background/2.-background/2.6-centralised-training-decentralised-execution.md)
+  * [2.6 Centralized Training, Decentralized Execution](2.-background/2.-background/2.6-centralised-training-decentralised-execution.md)
   * [2.7 Value Functions](2.-background/2.-background/2.7-value-functions.md)
   * [2.8 Nash Equilibria](2.-background/2.-background/2.8-nash-equilibria.md)
   * [2.9 Deep Learning for MARL](2.-background/2.-background/2.9-deep-learning-for-marl.md)
