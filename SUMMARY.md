@@ -18,7 +18,7 @@
 * [2. BACKGROUND](2.-background/2.-background/README.md)
   * [2.1 Reinforcement Learning](2.-background/2.-background/2.1-reinforcement-learning.md)
   * [2.2 Multi-Agent Settings](2.-background/2.-background/2.2-multi-agent-settings.md)
-  * [2.3 Centralised vs Decentralised Control](2.-background/2.-background/2.3-centralised-vs-decentralised-control.md)
+  * [2.3 Centralized vs Decentralized Control](2.-background/2.-background/2.3-centralised-vs-decentralised-control.md)
   * [2.4  Cooperative, Zero-sum, and General-Sum](2.-background/2.-background/2.4-cooperative-zero-sum-and-general-sum.md)
   * [2.5 Partial Observability](2.-background/2.-background/2.5-partial-observability.md)
   * [2.6 Centralised Training, Decentralised Execution](2.-background/2.-background/2.6-centralised-training-decentralised-execution.md)
