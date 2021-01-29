@@ -50,7 +50,7 @@
   * [4.6 Pairwise MACKRL](i-learning-to-collaborate/4-multi-agent-common-knowledge-reinforcement-learning/4.6-pairwise-mackrl.md)
   * [4.7 Experiments and Results](i-learning-to-collaborate/4-multi-agent-common-knowledge-reinforcement-learning/4.7-experiments-and-results.md)
   * [4.8 Conclusion & Future Work](i-learning-to-collaborate/4-multi-agent-common-knowledge-reinforcement-learning/4.8-conclusion-and-future-work.md)
-* [5 Stabilising Experience Replay](i-learning-to-collaborate/5-stabilising-experience-replay/README.md)
+* [5 Stabilizing Experience Replay](i-learning-to-collaborate/5-stabilising-experience-replay/README.md)
   * [5.1 Introduction](i-learning-to-collaborate/5-stabilising-experience-replay/5.1-introduction.md)
   * [5.2 Related Work](i-learning-to-collaborate/5-stabilising-experience-replay/5.2-related-work.md)
   * [5.3 Methods](i-learning-to-collaborate/5-stabilising-experience-replay/5.3-methods/README.md)

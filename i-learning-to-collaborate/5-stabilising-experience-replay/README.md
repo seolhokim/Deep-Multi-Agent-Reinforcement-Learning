@@ -1,2 +1,2 @@
-# 5 Stabilising Experience Replay
+# 5 Stabilizing Experience Replay
 
