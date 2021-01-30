@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Deep Multi-Agent Reinforcement Learning](README.md)
-* [Not Finished](not-finished.md)
 
 ## Abstract & Contents
 
@@ -150,5 +149,6 @@
 
 ## After
 
+* [보충](after/not-finished.md)
 * [역자 후기](after/undefined.md)
 
