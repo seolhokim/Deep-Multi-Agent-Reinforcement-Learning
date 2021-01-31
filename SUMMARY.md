@@ -87,7 +87,7 @@
     * [7.3.1 Public belief](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/7.3.1-public-belief.md)
     * [7.3.2 Public Belief MDP](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/7.3.2-public-belief-mdp.md)
     * [7.3.3 Sampling Deterministic Partial Policies](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/7.3.3-sampling-deterministic-partial-policies.md)
-    * [7.3.4 Factorised Belief Updates](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/7.3.4-factorised-belief-updates.md)
+    * [7.3.4 Factorized Belief Updates](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/7.3.4-factorised-belief-updates.md)
     * [7.3.5 Self-Consistent Beliefs](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/7.3.5-self-consistent-beliefs.md)
   * [7.4 Experiments and Results](ii-learning-to-communicate/7-bayesian-action-decoder/7.4-experiments-and-results/README.md)
     * [7.4.1 Matrix Game](ii-learning-to-communicate/7-bayesian-action-decoder/7.4-experiments-and-results/7.4.1-matrix-game.md)
