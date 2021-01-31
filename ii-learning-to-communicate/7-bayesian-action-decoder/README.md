@@ -1,4 +1,6 @@
-# 7. Bayesian Action Decoder
+# \(Preparing\)7. Bayesian Action Decoder
+
+
 
 ![](../../.gitbook/assets/marl_44.png)
 

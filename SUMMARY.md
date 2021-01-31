@@ -80,7 +80,7 @@
     * [6.6.3 MNIST Games](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.6-experiments/6.6.3-mnist-games.md)
     * [6.6.4 Effect of Channel Noise](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.6-experiments/6.6.4-effect-of-channel-noise.md)
   * [6.7 Conclusion & Future Work](ii-learning-to-communicate/6-learning-to-communicate-with-deep-multi-agent-reinforcementlearning/6.7-conclusion-and-future-work.md)
-* [7. Bayesian Action Decoder](ii-learning-to-communicate/7-bayesian-action-decoder/README.md)
+* [\(Preparing\)7. Bayesian Action Decoder](ii-learning-to-communicate/7-bayesian-action-decoder/README.md)
   * [7.1 Introduction](ii-learning-to-communicate/7-bayesian-action-decoder/7.1-introduction.md)
   * [7.2 Setting](ii-learning-to-communicate/7-bayesian-action-decoder/7.2-setting.md)
   * [7.3 Method](ii-learning-to-communicate/7-bayesian-action-decoder/7.3-method/README.md)
