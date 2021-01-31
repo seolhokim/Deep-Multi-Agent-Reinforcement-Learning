@@ -1,4 +1,4 @@
-# \(Preparing\)7. Bayesian Action Decoder
+# 7. Bayesian Action Decoder
 
 
 
