@@ -16,9 +16,9 @@
 
  우리가 비동기적으로 만나서 함께 같은 공부를 하고있다는 사실은 같아도, 과거의 배움은 각자 다른 길을 걸어왔을 것입니다. 의견이 다른, 혹은 보충해주시려는 분들의 다양한 의견들을 기쁜 마음으로 받아들이겠습니다.
 
-내용은 [이곳](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)에서 확인 가능합니다. permission을 얻은상태이고, 단기간에 빠르게 완성하기 위해 많은 부족한 부분이 존재하는데 유의해서 읽어주셨으면 좋겠습니다.
+본 내용은 [이곳](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)에서 확인 가능합니다. permission을 얻은상태이고, 단기간에 빠르게 완성하기 위해 많은 부족한 부분이 존재하는데 유의해서 읽어주셨으면 좋겠습니다.
 
-
+깃허브를 통해 들어온 분들을 위한 [깃북 링크](https://app.gitbook.com/@kilmya1/s/deep-multi-agent-reinforcement-learning/)를 남겨놓겠습니다.
 
 Written by Jakob N. Foerster
 
