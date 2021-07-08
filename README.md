@@ -18,7 +18,7 @@
 
 본 내용은 [이곳](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)에서 확인 가능합니다. permission을 얻은상태이고, 단기간에 빠르게 완성하기 위해 많은 부족한 부분이 존재하는데 유의해서 읽어주셨으면 좋겠습니다.
 
-깃허브를 통해 들어온 분들을 위한 [깃북 링크](https://app.gitbook.com/@kilmya1/s/deep-multi-agent-reinforcement-learning/)를 남겨놓겠습니다.
+깃허브를 통해 들어온 분들을 위한 [깃북 링크](https://kilmya1.gitbook.io/deep-multi-agent-reinforcement-learning/)를 남겨놓겠습니다.
 
 Written by Jakob N. Foerster
 
