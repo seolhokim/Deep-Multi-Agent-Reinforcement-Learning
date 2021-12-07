@@ -13,6 +13,6 @@
 Written by Jakob N. Foerster
 
 * Translators
-  * [Seolho Kim](https://seolhokim.github.io/about/)
+  * [Seolho Kim](https://seolhokim.github.io)
     * 취미로 Deep Reinforcement Learning하는 것을 좋아합니다. Molecule generation, Infection simulation관련 연구를 하고 있습니다(2021-12 기준). 생각을 구현하는 것을 좋아하고 말보단 결과로 보여주는 것들에 대해 좋아합니다. 서른까지 10억만 더모아 연구만하면서  사는게 목표입니다.
 
